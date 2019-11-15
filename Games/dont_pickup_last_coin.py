@@ -2,7 +2,7 @@
 Choose the number of coins, and flip between players to start pickup from 0 to 9 coins.
 Try to avoid being the last player to play. The last one who picks the looser will be :)
 
-Credit by: Hatem Gad
+Credit to: Hatem Gad
 """
 
 n = int(input("Enter number of coins: "))
